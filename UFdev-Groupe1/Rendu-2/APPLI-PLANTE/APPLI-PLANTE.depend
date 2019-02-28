@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1551368091 source:c:\users\vic\desktop\ynov\projets\ufdev-groupe1\appli-plante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1551372049 c:\users\vic\desktop\ynov\projets\ufdev-groupe1\appli-plante\header.h
+
+1551371329 source:c:\users\vic\desktop\ynov\projets\ufdev-groupe1\appli-plante\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
