@@ -1,6 +1,6 @@
 # UFdev-GROUPE1
 Groupe n°1 : - GENDI Cyrille 
-	     - MUTTUR Devesh
+	     - KAROUR Rafik
 	     - SEDAROS Victor-Emmanuel
 
 Liste des rendus effectués :
